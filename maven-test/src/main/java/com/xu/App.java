@@ -22,6 +22,8 @@ public class App
         for (int i : ints) {
             System.out.println(i);
         }
+        System.out.println("===============");
+        System.out.println("Test Git!");
 
     }
 
