@@ -26,6 +26,7 @@ public class App
         System.out.println("Test Git!");
         System.out.println("===============");
         System.out.println("Test hot-fix");
+        System.out.println("Test master2");
 
     }
 
