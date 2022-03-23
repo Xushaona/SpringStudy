@@ -29,6 +29,8 @@ public class App
         System.out.println("Test master2");
         System.out.println("Test hot-fix2");
         System.out.println("Test push");
+        System.out.println("Test pull");
+        
 
     }
 
