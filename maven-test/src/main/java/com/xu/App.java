@@ -27,6 +27,7 @@ public class App
         System.out.println("===============");
         System.out.println("Test hot-fix");
         System.out.println("Test master2");
+        System.out.println("Test hot-fix2");
 
     }
 
